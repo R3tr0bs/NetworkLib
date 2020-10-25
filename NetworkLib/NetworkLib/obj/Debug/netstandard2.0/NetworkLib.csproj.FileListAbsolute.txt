@@ -1,0 +1,9 @@
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\obj\Debug\netstandard2.0\NetworkLib.csprojAssemblyReference.cache
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\obj\Debug\netstandard2.0\NetworkLib.AssemblyInfoInputs.cache
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\obj\Debug\netstandard2.0\NetworkLib.AssemblyInfo.cs
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\obj\Debug\netstandard2.0\NetworkLib.csproj.CoreCompileInputs.cache
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\bin\Debug\netstandard2.0\NetworkLib.deps.json
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\bin\Debug\netstandard2.0\NetworkLib.dll
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\bin\Debug\netstandard2.0\NetworkLib.pdb
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\obj\Debug\netstandard2.0\NetworkLib.dll
+C:\Users\ibens\source\repos\NetworkLib\NetworkLib\obj\Debug\netstandard2.0\NetworkLib.pdb

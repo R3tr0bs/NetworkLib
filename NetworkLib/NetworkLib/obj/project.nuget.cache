@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RW6nWs4EcKnr9mgulO1kthetvH7UCFn6PVCHw39fKY1/PZUQ+6WNbw09ZAzmmaL8NYC16Qko6OzUHm02gF1lyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibens\\source\\repos\\NetworkLib\\NetworkLib\\NetworkLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
